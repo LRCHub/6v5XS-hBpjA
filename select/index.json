@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アポカリプスより",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-17T06:29:26.782490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アポカリプスより",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/01_アポカリプスより_花譜.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アポカリプスより",
+      "artist": "KAF",
+      "has_synced": false,
+      "path": "select/02_アポカリプスより_KAF.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アポカリプスより",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_アポカリプスより_花譜.txt"
+    }
+  ]
+}
